@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+h2{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 25px;
+}
+#lens{
+    width: 350px;
+    
+}
+#vs{
+    font-size: 22px;
+}
+#net{
+    font-size: 29px;
+}
+#bottle{
+    background-color: grey;
+    color: white;
+    border-radius: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    float: left;
+}
+div{
+    background-color: grey;
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 503px;
+}
+div p{
+    margin-left: 20px;
+}
+
+div img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 309px;
+    height: 444px;
+
+    
+    border-radius: 30px;
+}
+h2{
+    text-align: center;
+}
+#net{
+    text-align: center;
+}
+#vs{
+    text-align: center;
+}
+#lens{
+    text-align: center;
+}
+#result_lens{
+    background-color: white;
+    color: black;
+    margin-right: 400px;
+    margin-left: 450px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#result_mob{
+    
+    background-color: white;
+    color: black;
+    margin-top: -40px;
+    margin-left: 800px;
+    margin-right: 70px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    
+
+}
+
+#result{
+    
+    
+    color: white;
+     
+    margin-left: 0px;
+    margin-right: 70px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    
+
+}
+hr{
+    margin-left: 20px;
+}
+#ka{
+    font-size: 20px;
+}
+#conclusion{
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 103px;
+    font-size: 18px;
+    background-color: pink;
+    color: black;
+    border: 1px solid;
+}
